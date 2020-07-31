@@ -1,0 +1,21 @@
+input{
+    width: 90%;
+    display: block;
+    margin: 3% 0;
+    padding: 15px 10px;
+    background-color: #53585D;
+    border-radius: 4px;
+    color: #ffffff;
+    line-height: 1.5;
+    border: 0;
+}
+textarea{
+    width: 90%;
+    padding: 15px 10px;
+    margin-bottom: 20px;
+    background-color: #53585D;
+    border-radius: 4px;
+    color: #ffffff;
+    border: 0;
+    line-height: 1.5;
+}
