@@ -19,4 +19,4 @@ O desafio proposto durante o evento consista em desenvolver uma aplicação web 
 <strong>Devaflix</strong> que tem como objetivopromover conteúdos voltados a área de T.I produzidos por mulheres. 
 
 ## :sunflower: Overview
-
+<img src="./src/assets/gif/Dev_a_Flix__a_.gif">
