@@ -54,7 +54,7 @@ ContentAreaContainer.Description = styled.p`
 ContentAreaContainer.Title = styled.h2`
   font-style: normal;
   font-weight: 300;
-  font-size: 40px;
+  font-size: 55px;
   line-height: 1;
   margin-top: 0;
   margin-bottom: 32px;
@@ -107,7 +107,7 @@ export const WatchButton = styled.button`
   padding: 16px 24px;
   font-style: normal;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 18px;
   outline: none;
   border-radius: 5px;
   text-decoration: none;

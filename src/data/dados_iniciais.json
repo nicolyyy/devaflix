@@ -1,188 +1,209 @@
 {
   "categorias": [
     {
-      "titulo": "React para Iniciantes",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Canal Peixe Babel",
+      "link": "https://www.youtube.com/user/CanalPeixeBabel",
       "cor": "#60D8F9",
       "link_extra": {
-        "text": "Conteúdo introdutório sobre ReactJS",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Mila Laranjeira e Vivi Mota ensinam tudo sobre inteligência artificial, robótica e programação",
+        "url": "https://www.youtube.com/user/CanalPeixeBabel"
       },
       "videos": [
         {
-          "titulo": "O que é React JS? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
+          "titulo": "E se fôssemos 50%? | Mulheres na tecnologia",
+          "url": "https://www.youtube.com/watch?v=ZvOMu4x8-0Y"
         },
         {
-          "titulo": "React JS - MELHOR GUIA para Iniciantes! (2020)",
-          "url": "https://www.youtube.com/watch?v=Ws9WVHhNq5M"
+          "titulo": "Algoritmo da Tapioca",
+          "url": "https://www.youtube.com/watch?v=-KNDypXyjt0&list=PL3Wx5P4NOzUiABIMZqO4X_8m0KScZXHJA&index=5"
         },
         {
-          "titulo": "#01 ReactJS para iniciantes - Começando um projeto do ZERO com create react app",
-          "url": "https://www.youtube.com/watch?v=4juIVSWo-pw"
+          "titulo": "Detectando DEEP FAKES | O novo Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "Tutorial de React para Iniciantes (Desenvolvimento Web)",
-          "url": "https://www.youtube.com/watch?v=lE6RuCmQY90"
+          "titulo": "MEU PRIMEIRO APP FLUTTER",
+          "url": "https://www.youtube.com/watch?v=yPnF_keYW70"
         },
         {
-          "titulo": "O que é ReactJS? - Série ReactJS",
-          "url": "https://www.youtube.com/watch?v=cEczlv669Oo"
+          "titulo": "CRIEI UM BOT!",
+          "url": "https://www.youtube.com/watch?v=snM-pCiVqXU"
         },
         {
-          "titulo": "Talk #54 - React para iniciantes",
-          "url": "https://www.youtube.com/watch?v=hHDMKZ3T6Kw"
+          "titulo": "Construindo um Pokémon Robô | Desafio Méliuz",
+          "url": "https://www.youtube.com/watch?v=nv1Guhs0l5k"
         },
         {
-          "titulo": "React JS - Criando um App do Zero - Programador Br",
-          "url": "https://www.youtube.com/watch?v=tbLziJchz48"
+          "titulo": "Racismo em Algoritmos: Viés racial em Deep Fakes | Bit de Prosa #21",
+          "url": "https://www.youtube.com/watch?v=vY84WKY9rJI"
         },
         {
-          "titulo": "#01 - Tutorial de React.JS iniciante, Virtual DOM, JSX, Create React App",
-          "url": "https://www.youtube.com/watch?v=ghEdUzwRsHo"
+          "titulo": "Redes Neurais em PyTorch | Programando em 10 minutos #1",
+          "url": "https://www.youtube.com/watch?v=Vfzm1-cfLuc"
+        },
+        {
+          "titulo": "Analisando Dados Públicos com PYTHON | #FalaProgramadores",
+          "url": "https://www.youtube.com/watch?v=vnvMIzhnJo0"
         }        
       ]
     },
     {
-      "titulo": "Projetos com React",
+      "titulo": "Canal Attekita Dev",
       "cor": "#AA61FA",
       "link_extra": {
-        "text": "Mão na massa com React",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Curte desenvolvimento de jogos? Então conheça o canal da Attekita Dev",
+        "url": "https://www.youtube.com/c/AttekitaDev/videos"
       },
       "videos": [
         {
-          "titulo": "ReactJS - Criando primeiro projeto",
-          "url": "https://www.youtube.com/watch?v=LqP7ks7rAEY"
+          "titulo": "Como me tornei desenvolvedora",
+          "url": "https://www.youtube.com/watch?v=Ft3h4dG33rw&t=15s"
           
         },
         {
-          "titulo": "Build a Quiz App From Scratch Using React Components | React Tutorial For Beginners | Knowledgehut",
-          "url": "https://www.youtube.com/watch?v=aq-fCtg_gG4"
+          "titulo": "Dicas para iniciar uma carreira em desenvolvimento de games 🎮",
+          "url": "https://www.youtube.com/watch?v=zaCWxDeWnvM"
         },
         {
-          "titulo": "How to Make an AMAZON Clone with REACT JS for Beginners (in 4 hours)",
-          "url": "https://www.youtube.com/watch?v=1_IYL9ZMR_Y"
+          "titulo": "Como foi participar de uma Game Jam? ( Game Developer ) 🎮",
+          "url": "https://www.youtube.com/watch?v=LBPzZaxv9oE"
         },
         {
-          "titulo": "Desenvolvendo um Layout em ReactJS - Parte 1",
-          "url": "https://www.youtube.com/watch?v=IkbT5V8N-QE"
+          "titulo": "Criando seu game na Unity (Curso de Jogos #1) 🎮",
+          "url": "https://www.youtube.com/watch?v=PEq3VXgpYnI"
         }, 
         {
-          "titulo": "Construindo um App para gerenciar suas séries com ReactJS - Parte 01",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CRIANDO JOGOS em swift com SpriteKit (feat Victor Vasconcelos) 🎮",
+          "url": "https://www.youtube.com/watch?v=fVReALeP9MI"
+        },
+        {
+          "titulo": "Apple Arcade vs Google Stadia 🎮 🧐",
+          "url": "https://www.youtube.com/watch?v=F-AcOzkrmw4"
         }
       ]
     },
     {
-      "titulo": "Comunidade Feminina",
+      "titulo": "Canal Laryssa Magalhães",
       "cor": "#FA8DC5",
       "link_extra": {
-        "text": "Representatividade no React",
-        "url": "https://www.youtube.com/watch?v=ropAuzI7MtA"
+        "text": "Você se interessa por desenvolvimento front-end? Então esse canal é para você",
+        "url": "https://www.youtube.com/c/GlauciaLemos/featured"
       },
       "videos": [
         {
-          "titulo": "Emma Wedekind - Building a Design System with React - ReactJS Girls Conference",
-          "url": "https://www.youtube.com/watch?v=ropAuzI7MtA"
+          "titulo": "O que um dev front-end faz?",
+          "url": "https://www.youtube.com/watch?v=i9lQKN8GSs4&t=249s"
         },
         {
-          "titulo": "ReactJS Girls Conference - Highlights",
-          "url": "https://www.youtube.com/watch?v=jxZoasJQl-w"
+          "titulo": "Como entrei na área de TI e virei desenvolvedora front-end",
+          "url": "https://www.youtube.com/watch?v=LNFoll3stV8&t=253s"
         },
         {
-          "titulo": "React Tutorial How to build React App in few minutes",
-          "url": "https://www.youtube.com/watch?v=SPM4xyYd9MI"
+          "titulo": "O que é HTML?",
+          "url": "https://www.youtube.com/watch?v=mYl1lMFCHEs"
         },
         {
-          "titulo": "Code your first React app | Beginner React app | To Do List",
-          "url": "https://www.youtube.com/watch?v=e_ZibOe77yo"
+          "titulo": "O que é CSS?",
+          "url": "https://www.youtube.com/watch?v=zl3mpEbcvVA"
         },
         {
-          "titulo": "What is the difference between Reactjs State and Props?",
-          "url": "https://www.youtube.com/watch?v=dCGH82tqb9Q"
+          "titulo": "Trabalho remoto antes X durante a pandemia + Dicas",
+          "url": "https://www.youtube.com/watch?v=BVWkJUHJVYE"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Canal Glaucia Lemos",
+      "cor": "#63FA61", 
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Quer aprender diferentes linguagens de programação? A Glaucia te ajuda nessa jornada",
+        "url": "https://www.youtube.com/c/GlauciaLemos/featured"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Aprendendo Front-End com 9 Projetos | Projeto Angular: Parte 1",
+          "url": "https://www.youtube.com/watch?v=dVidU2JUwfI&list=PLb2HQ45KP0WtR5f32HdvBu1O95nciAgSZ&index=2"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Live Coding - Aprendendo React - Zero to Hero (#Day 1)",
+          "url": "https://www.youtube.com/watch?v=qzSzU4BK6gE&list=PLb2HQ45KP0Wvm6huLbKK3ae9uIrBz8hnu"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Tutorial CRUD App + Node.js + PostGreSQL + Azure - Parte I",
+          "url": "https://www.youtube.com/watch?v=QYR64dVRkWE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Workshop - Criando uma App REST API com Node.js & MongoDB (Turma 08/2018)",
+          "url": "https://www.youtube.com/watch?v=lVxal387fOM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Canal Laboratório da Julia ",
+      "cor": "#CB1438",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "A Julia vai te ensinar a fazer vários projetinhos utilizando hardware",
+        "url": "https://www.youtube.com/c/Laborat%C3%B3riodaJulia/featured"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Horta inteligente usando ARDUINO",
+          "url": "https://www.youtube.com/watch?v=ORgb678Os1U"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Como controlar um Servo Motor no Arduino?",
+          "url": "https://www.youtube.com/watch?v=AxNFkuhfGKE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Desenhar com Display LCD no ARDUINO",
+          "url": "https://www.youtube.com/watch?v=dUz2JygrCVg"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "5 projetos INCRÍVEIS com ARDUINO 🔥",
+          "url": "https://www.youtube.com/watch?v=RYBjpiHnP74"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "KIT DE ARDUINO PARA INICIANTES (com exemplos) - MONTE O SEU E ECONOMIZE",
+          "url": "https://www.youtube.com/watch?v=8L6V_9v3cdI"
+        },
+        {
+          "titulo": "Meu Tamagotchi",
+          "url": "https://www.youtube.com/watch?v=8d6z5kDvoz4"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Canal Bia In Tech",
+      "cor": "#8E80FF",
+      "link_extra": {
+        "text": "Dicas sobre desenvolvimento de software e trabalho no exterior ",
+        "url": "https://www.youtube.com/c/BiaInTech/featured"
+      },
+      "videos": [
+        {
+          "titulo": "How to start to program?",
+          "url": "https://www.youtube.com/watch?v=vx9cIPs_Pg0&t=454s"
+        },
+        {
+          "titulo": "How did I get my first developer job",
+          "url": "https://www.youtube.com/watch?v=P1xL1za0izs&t=135s"
+        },
+        {
+          "titulo": "Como eu fiz o desafio dos 100 dias de código!",
+          "url": "https://www.youtube.com/watch?v=XO5abdj9qlU"
+        },
+        {
+          "titulo": "Which programming language to learn as a beginner?",
+          "url": "https://www.youtube.com/watch?v=HaqNyEl4_qg"
+        },
+        {
+          "titulo": "Como é a vida de desenvolvedor(a) no exterior?",
+          "url": "https://www.youtube.com/watch?v=PO68YVQtX1g&t=422s"
         }
       ]
     }
